@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(139, 133, 126);
+}
+#container {
+    background-color: rgb(191, 202, 212);
+    border: 5px solid #f6f6f6;
+    height: 200px;
+    width: 350px;
+    margin: auto;
+    text-align: center;
+}
+#btn {
+    margin: 5px auto auto 10px;
+}
